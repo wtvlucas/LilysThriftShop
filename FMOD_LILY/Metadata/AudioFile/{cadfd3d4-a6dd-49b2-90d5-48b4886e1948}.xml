@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cadfd3d4-a6dd-49b2-90d5-48b4886e1948}">
+		<property name="assetPath">
+			<value>ambiente de quarto.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>40.152000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2320ca94-0ff9-4fbb-a73a-f2c6db154e9b}</destination>
+		</relationship>
+	</object>
+</objects>
